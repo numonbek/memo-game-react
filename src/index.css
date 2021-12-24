@@ -82,6 +82,8 @@ h1 {
 
 .card.correct {
   background-color: #65e469;
+  opacity: 0;
+  pointer-events: none;
 }
 
 .card.wrong {
